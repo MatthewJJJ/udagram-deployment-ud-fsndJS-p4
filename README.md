@@ -4,9 +4,9 @@ This application was built as part of the last section of the Udacity Full Stack
 
 Backend URL: `http://udagram-api-dev.eba-dqpuc6sp.us-east-1.elasticbeanstalk.com/api/v0/feed`
 
-Frontend URL: `http://udagram-deployment-mjf-udnanodegree.s3-website-us-east-1.amazonaws.com/home`
+Frontend URL: `http://udagram-deployment-mjf-udnanodegree.s3-website-us-east-1.amazonaws.com`
 
-Screenshot of Hosted Web App:
+Screenshot of Hosted Web App: ![plot](./screenshots/Working%20App%20Screenshot.jpg)
 
 ### Dependencies
 
