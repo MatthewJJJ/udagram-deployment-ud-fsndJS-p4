@@ -83,7 +83,7 @@ workflows:
           filters:
             branches:
               only:
-                - main
+                - deploy
           type: approval
           requires:
             - build
