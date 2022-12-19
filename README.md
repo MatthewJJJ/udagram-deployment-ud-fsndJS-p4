@@ -6,7 +6,7 @@ Backend URL: `http://udagram-api-dev.eba-dqpuc6sp.us-east-1.elasticbeanstalk.com
 
 Frontend URL: `http://udagram-deployment-mjf-udnanodegree.s3-website-us-east-1.amazonaws.com/home`
 
-Screenshot of Hosted Web App:
+Screenshot of Hosted Web App:Working App Screenshot.jpg
 
 ### Dependencies
 
